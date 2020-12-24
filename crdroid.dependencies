@@ -1,22 +1,20 @@
 [
-  {
-    "repository": "MASTERGUY/android_device_xiaomi_msm8953-common",
-    "target_path": "device/xiaomi/msm8953-common",
-    "branch": "cr-eleven",
-    "remote": "github"
-  }
-
-  {
-    "repository": "MASTERGUY/android_kernel_xiaomi_msm8953",
-    "target_path": "kernel/xiaomi/msm8953",
-    "branch": "eleven",
-    "remote": "github" 
-  }
-
-  {
-    "repository": "MASTERGUY/android_vendor_xiaomi_tissot",
-    "target_path": "vendor/xiaomi",
-    "branch": "eleven",
-    "remote": "github"
-  }
+ {
+   "remote": "github",
+   "repository": "crdroidandroid/android_device_xiaomi_msm8953-common-tissot",
+   "target_path": "device/xiaomi/msm8953-common",
+   "branch": "11.0"
+ },
+ {
+   "remote": "github",
+   "repository": "crdroidandroid/proprietary_vendor_xiaomi",
+   "target_path": "vendor/xiaomi",
+   "branch": "11.0-tissot"
+ },
+ {
+   "remote": "github",
+   "repository": "crdroidandroid/android_kernel_xiaomi_tissot",
+   "target_path": "kernel/xiaomi/tissot",
+   "branch": "11.0"
+ }
 ]
