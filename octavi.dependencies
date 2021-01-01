@@ -1,0 +1,44 @@
+[
+ {
+   "remote": "github",
+   "repository": "crdroidandroid/android_device_xiaomi_tissot",
+   "target_path": "device/xiaomi/tissot",
+   "branch": "11.0"
+ },
+ {
+   "remote": "github",
+   "repository": "crdroidandroid/android_device_xiaomi_msm8953-common-tissot",
+   "target_path": "device/xiaomi/msm8953-common",
+   "branch": "11.0"
+ },
+ {
+   "remote": "gitlab",
+   "repository": "MASTERGUY/proprietary_vendor_xiaomi",
+   "target_path": "vendor/xiaomi",
+   "branch": "eleven"
+ },
+ {
+   "remote": "github",
+   "repository": "crdroidandroid/android_kernel_xiaomi_tissot",
+   "target_path": "kernel/xiaomi/tissot",
+   "branch": "11.0"
+ },
+ {
+   "remote": "github",
+   "repository": "MASTERGUY/hardware_qcom-caf_msm8996_audio",
+   "target_path": "hardware/qcom-caf/msm8996/audio",
+   "branch": "eleven"
+ },
+ {
+   "remote": "github",
+   "repository": "MASTERGUY/hardware_qcom-caf_msm8996_display",
+   "target_path": "hardware/qcom-caf/msm8996/display",
+   "branch": "eleven"
+ },
+ {
+   "remote": "github",
+   "repository": "MASTERGUY/hardware_qcom-caf_msm8996_media",
+   "target_path": "hardware/qcom-caf/msm8996/media",
+   "branch": "eleven"
+ }
+]
